@@ -1,0 +1,124 @@
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe.config
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csprojAssemblyReference.cache
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.g.cs
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\App.g.cs
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.cache
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.lref
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.baml
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).g.resources
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF_ev_tapsirigi_verilib_2._05._2019_.Properties.Resources.resources
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.GenerateResource.cache
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.CoreCompileInputs.cache
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\abdu_yl84\source\repos\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe.config
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csprojAssemblyReference.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\App.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.lref
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).g.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF_ev_tapsirigi_verilib_2._05._2019_.Properties.Resources.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.GenerateResource.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.CoreCompileInputs.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_Content.g.cs
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe.config
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csprojAssemblyReference.cache
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.g.cs
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\App.g.cs
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.cache
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.lref
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.baml
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).g.resources
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF_ev_tapsirigi_verilib_2._05._2019_.Properties.Resources.resources
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.GenerateResource.cache
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.CoreCompileInputs.cache
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_Content.g.cs
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.g.cs
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.baml
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.g.cs
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.baml
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.g.cs
+C:\Users\Bekarciliq\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.baml
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe.config
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csprojAssemblyReference.cache
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.g.cs
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.g.cs
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.g.cs
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.g.cs
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\App.g.cs
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_Content.g.cs
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.cache
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.lref
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.baml
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.baml
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.baml
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.baml
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).g.resources
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF_ev_tapsirigi_verilib_2._05._2019_.Properties.Resources.resources
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.GenerateResource.cache
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.CoreCompileInputs.cache
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\abdu_yl84\Desktop\WPF tapsiriqlar\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csprojAssemblyReference.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\App.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_Content.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.lref
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).g.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe.config
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF_ev_tapsirigi_verilib_2._05._2019_.Properties.Resources.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.GenerateResource.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.CoreCompileInputs.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\WPF ev tapsirigi(verilib 2.05.2019)\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe.config
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\bin\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csprojAssemblyReference.cache
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.g.cs
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.g.cs
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.g.cs
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.g.cs
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\App.g.cs
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_Content.g.cs
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.cache
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019)_MarkupCompile.lref
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\AdditionWindow.baml
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\EditionWindow.baml
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\MainWindow.baml
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\ShowItemWindow.baml
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).g.resources
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF_ev_tapsirigi_verilib_2._05._2019_.Properties.Resources.resources
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).csproj.GenerateResource.cache
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).exe
+C:\Users\Alik\Desktop\Disc Store\WPF ev tapsirigi(verilib 2.05.2019)\obj\Debug\WPF ev tapsirigi(verilib 2.05.2019).pdb

@@ -1,0 +1,126 @@
+﻿<Window x:Class="WPF_ev_tapsirigi_verilib_2._05._2019_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_ev_tapsirigi_verilib_2._05._2019_"
+        mc:Ignorable="d"
+        Title="Online Store" Height="620" Width="1200" Background="#b8eafc" Icon="mainwindow.jpg" WindowStartupLocation="CenterScreen">
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="0.9*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button Name="BuyButton" Grid.Column="0" Width="140" Height="85" Content="Buy Disc" FontFamily="Comic Sans MS" FontSize="28" Margin="2,-480,0,5" Background="Aqua" BorderBrush="Blue" BorderThickness="2" Cursor="Hand" ToolTip="Buy Disc" Visibility="Hidden" Click="BuyButton_Click">
+        </Button>
+
+
+        <Grid Grid.Column="1" Grid.ColumnSpan="2">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.1*"></RowDefinition>
+                <RowDefinition Height="5*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <!--<Image Grid.Column="0" Grid.Row="0" Margin="100,20,300,51" Source="images.jfif" Stretch="None" Visibility="Visible"></Image>-->
+
+
+
+            <ListBox BorderBrush="Red" BorderThickness="2" Grid.Row="1" Background="Aquamarine" Name="mainlistbox" FontSize="20" MouseDoubleClick="Mainlistbox_MouseDoubleClick" SelectionChanged="Mainlistbox_SelectionChanged" Margin="-149,20,180,5">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Image Height="128" Width="128" Grid.Column="0" Source="{Binding ItemImagePath,UpdateSourceTrigger=PropertyChanged}" Margin="10"></Image>
+
+                                <StackPanel Grid.Column="1" Orientation="Vertical">
+                                    <TextBlock TextAlignment="Center" Text="Name : " Margin="50,40,0,5"></TextBlock>
+                                    <TextBlock TextAlignment="Center" Text="Price : " Margin="50,40,0,5"></TextBlock>
+                                    
+
+                                </StackPanel>
+
+                                <StackPanel Grid.Column="2" Orientation="Vertical">
+                                    <TextBlock TextAlignment="Center" Text="{Binding ItemName,UpdateSourceTrigger=PropertyChanged}" Margin="50,40,0,0"></TextBlock>
+                                    <TextBlock TextAlignment="Center" Text="{Binding ItemPrice,UpdateSourceTrigger=PropertyChanged}" Margin="50,46,0,0"></TextBlock>
+                                    <TextBlock></TextBlock>
+                                    <TextBlock></TextBlock>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Grid>
+
+
+
+
+
+
+        <StackPanel Grid.Column="3">
+
+            <Image Name="AddImage" Width="85" Height="85" VerticalAlignment="Top" Margin="10,35,10,30" ToolTip="Add Product" Cursor="Hand" MouseDown="AddImage_MouseDown" MouseUp="AddImage_MouseUp">
+                <Image.Style>
+                    <Style TargetType="Image">
+                        <Setter Property="Source" Value="addbos.jpg"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Source" Value="adddolu.jpg"></Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Image.Style>
+            </Image>
+
+            <Image Name="EditImage" Width="85" Height="85" Stretch="Uniform" VerticalAlignment="Center" Margin="10,35,10,30" ToolTip="Edit Product" Cursor="Hand" MouseDown="EditImage_MouseDown" MouseUp="EditImage_MouseUp">
+                <Image.Style>
+                    <Style TargetType="Image">
+                        <Setter Property="Source" Value="editbos.png"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Source" Value="editdolu.jpeg"></Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Image.Style>
+            </Image>
+
+            <Image Name="RemoveImage" Width="85" Height="85" VerticalAlignment="Top" Margin="10,35,10,30" ToolTip="Remove Product" Cursor="Hand" MouseDown="RemoveImage_MouseDown" MouseUp="RemoveImage_MouseUp">
+                <Image.Style>
+                    <Style TargetType="Image">
+                        <Setter Property="Source" Value="removebos.png"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Source" Value="removedolu.png"></Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Image.Style>
+            </Image>
+
+
+
+            <Button Name="RemoveAllButton"  Grid.Column="2" Width="120" Height="85" FontSize="20" Margin="10,35,10,30" ToolTip="Remove All" Cursor="Hand" BorderBrush="#ef2131" Content="Remove All" Click="RemoveAllButton_Click">
+            </Button>
+
+        </StackPanel>
+
+
+
+    </Grid>
+
+
+</Window>
